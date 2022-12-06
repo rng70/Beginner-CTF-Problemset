@@ -1,0 +1,10 @@
+Solution: copy and paste the code in
+        https://www.jdoodle.com/execute-brainfuck-online/
+                            or
+        (best) https://copy.sh/brainfuck/ 
+                            or
+        https://minond.xyz/brainfuck/
+        
+   and execute the code.
+   
+****** Flag: buet{n0w_y0u_ar3_a_brainfuck_pr0gramm3r} ******
