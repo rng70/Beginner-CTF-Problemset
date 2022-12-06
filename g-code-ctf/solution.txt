@@ -1,0 +1,5 @@
+Solution: simply upload the not-very-hard.txt file here [https://ncviewer.com/].
+
+It will reveal the flag.
+
+****** Flag: buet{g_c0d3_1s_aw3s0m3} ******
