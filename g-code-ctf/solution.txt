@@ -1,4 +1,4 @@
-Solution: simply upload the not-very-hard.txt file here [https://ncviewer.com/].
+Solution: simply upload the not-very-hard.txt file here [https://ncviewer.com/] or here(even better) [https://nraynaud.github.io/webgcode/].
 
 It will reveal the flag.
 
