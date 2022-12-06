@@ -1,1 +1,3 @@
-# ctf-problemset
+# begineer-ctf-problemset
+
+* **Flag format: buet{}**
