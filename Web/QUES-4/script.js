@@ -1,0 +1,1 @@
+Cookies.set('flag', 'flag=buet{pera_nai_cookie_khai}');
