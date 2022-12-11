@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dont count on me </title>
+    <style>
+        
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background: hsl(0, 0%, 10%);
+        }
+        header{
+            width: 100%;
+            height: 100px;
+            background-color: rgb(165, 165, 218);
+            font-size: larger;
+        }
+        pre{
+            font-size: larger;
+            margin-left: 40%;
+            color: #DDE;
+        }
+        .circle {
+            position: relative;
+            height: 70vmin;
+            width: 70vmin;
+            filter: url(#wavy) blur(1px);
+        }
+
+        .circle::before {
+            content: "";
+            position: absolute;
+            top: 10vmin;
+            left: 10vmin;
+            right: 10vmin;
+            bottom: 10vmin;
+            border: 2vmin solid hsl(0, 0%, 100%);
+            border-radius: 50%;
+            box-shadow: 0 0 5vmin hsl(30, 100%, 50%), inset 0 0 5vmin hsl(30, 100%, 50%);
+        }
+    </style>
+    <script type="text/javascript"> 
+        document.addEventListener("contextmenu", function (e){
+            alert("Sorry, right click is not allowed !!"); 
+                e.preventDefault();
+            }, false);
+    </script> 
+</head>
+
+    <body>
+
+        
+            <div class="circle"></div>
+
+            <svg style="display: none;">
+            <filter id="wavy">
+                <feTurbulence x="0" y="0" baseFrequency="0.009" numOctaves="5" seed="2">
+                <animate attributeName="baseFrequency" dur="60s" values="0.02;0.005;0.02" repeatCount="indefinite" />
+                </feTurbulence>
+                <feDisplacementMap in="SourceGraphic" scale="30" />
+            </filter>
+            </svg>
+ <div>
+    <pre>       
+        I've been reading books of old
+        The legends and the myths
+        Achilles and his gold
+        Hercules and his gifts
+        Spiderman's control
+        And Batman with his fists
+        And clearly I don't see myself upon that list
+        
+        But she said, "Where'd you wanna go?
+        How much you wanna risk?
+        I'm not looking for somebody
+        With some superhuman gifts
+        Some superhero
+        Some fairytale bliss
+        Just something I can turn to
+        Somebody I can kiss
+        I want something just like this"
+        
+        Doo-doo-doo, doo-doo-doo
+        Doo-doo-doo, doo-doo
+        Doo-doo-doo, doo-doo-doo
+        Oh, I want something just like this
+        Doo-doo-doo, doo-doo-doo
+        Doo-doo-doo, doo-doo
+        Doo-doo-doo, doo-doo-doo
+        
+        Oh, I want something just like this
+        I want something just like this
+        
+        I've been reading books of old
+        The legends and the myths
+        The testaments they told
+        The moon and its eclipse
+        And Superman unrolls
+        A suit before he lifts
+        But I'm not the kind of person that it fits
+        
+        She said, "Where'd you wanna go?
+        How much you wanna risk?
+        I'm not looking for somebody
+        With some superhuman gifts
+        Some superhero
+        Some fairytale bliss
+        Just something I can turn to
+        Somebody I can miss
+        I want something just like this
+        I want something just like this"
+        
+        Oh, I want something just like this
+        Doo-doo-doo, doo-doo-doo
+        Doo-doo-doo, doo-doo
+        Doo-doo-doo, doo-doo-doo
+        Oh, I want something just like this
+        Doo-doo-doo, doo-doo-doo
+        Doo-doo-doo, doo-doo
+        Doo-doo-doo, doo-doo-doo
+        
+        Where'd you wanna go?
+        How much you wanna risk?
+        I'm not looking for somebody
+        With some superhuman gifts
+        Some superhero
+        Some fairytale bliss
+        Just something I can turn to
+        Somebody I can kiss
+        I want something just like this
+        
+        Oh, I want something just like this
+        Oh, I want something just like this
+        Oh, I want something just like this
+                </pre>
+ </div>         
+
+    
+    </body>
+
+</head>
+
+</html>
+
+<!-- buet{can't_stop_me_by_1_click} -->
