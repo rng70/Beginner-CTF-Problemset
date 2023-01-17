@@ -1,1 +1,6 @@
-Someone built a web server to communicate with his girlfriend. Your friend got curious and tapped the communication and sent you a packet capture to you to analyze. He wants you to find the secret message that was shared between them. Analyze the pcapng file to find the transferred message.
+Problem name - Sniffer 1
+Category - Network
+Point - 50
+Attachment - capture.pcapng
+
+Description - Someone built a web server to communicate with his girlfriend. Your friend got curious and tapped the communication and sent you a packet capture to you to analyze. He wants you to find the secret message that was shared between them. Analyze the pcapng file to find the transferred message.
