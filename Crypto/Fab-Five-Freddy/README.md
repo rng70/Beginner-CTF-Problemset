@@ -1,6 +1,7 @@
 ## Fab Five Freddy 
 ### Points
 ```
+25
 ```
 ### Author
 ```
