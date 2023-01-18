@@ -8,4 +8,5 @@ Description: Picachu takes lots of random pics. He sends you all the photos in h
 
 All the images of his gallery is given in the zip file, please download it. Submit the flag in the format: buet{flag}
 
-Hint: What do computers understand?
+Hint 1: What do computers understand?
+Hint 2: Magic
