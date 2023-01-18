@@ -14,7 +14,7 @@
 > 
 > ---
 >
-> 150
+> 50
 > 
 > > why you think this is appropriate point
 > >
