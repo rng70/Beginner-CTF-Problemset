@@ -16,4 +16,4 @@ Please help pagle have his patishapta.
 
 Put the flag in the format: BUET{flag}
 
-Hint: Isn't his favorite number too big?
+Hint 1: Isn't his favorite number too big?
