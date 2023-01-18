@@ -1,0 +1,15 @@
+Problem Name - Bird of Culture
+Category - OSINT
+Points - 75
+Attachment - birdcall.mp3
+
+Description :-
+
+Imagine, on a weekday, you were going to sit on a EEE CT chanting the famous slogan "EEE ***", nvm.
+Suddenly you heard a birdcall which lifted up your mood and your CT came out to be
+too good(yeah dude..it only happens in imagination.. pera nai chill). 
+You have much fascination with LATIN words. Can you find the LATIN name of that bird's species?
+
+Replace (if any) spaces with underscores ('_') and flag will contain only small letters.
+
+Flag format: buet{flag_here}

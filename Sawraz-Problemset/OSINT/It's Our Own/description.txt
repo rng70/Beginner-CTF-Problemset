@@ -1,0 +1,12 @@
+Problem Name - It's Our Own
+Category - OSINT
+Points - 150
+
+Description :-
+
+Let's say, you are given:
+	Computer = "Betsy plumleigh teape"
+then,
+	Computer Science = ?			
+
+Flag format: buet{flag_here}

@@ -1,0 +1,9 @@
+Problem Name - Corrupt
+Category - MISC
+Points - 25
+Attachment - checkme.txt
+
+Description :-
+
+Hey, can you fix me?? I think I am not in my form!!
+Flag format: buet{FLAG}

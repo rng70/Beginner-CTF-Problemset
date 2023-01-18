@@ -1,0 +1,10 @@
+Problem Name - Mr.Regex
+Category - MISC
+Points - 75
+Attachment - file.txt
+
+Description :-
+
+Can you find me the flag in the attached file. The flag will be 
+in the format of "buet{you_got_a_flag}", except the quotes. The text between the curly braces can consist of lowercase 
+characters and underscores and will be a maximum length of 16. You'll get to know it when you see it.
