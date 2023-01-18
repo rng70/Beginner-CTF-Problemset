@@ -1,0 +1,6 @@
+Solution:
+1. Vignere cipher.
+2. The key is TK.
+3. Decrpyting it reads: r3turn_th3_extr4_m0ney
+
+Flag: buet{r3turn_th3_extr4_m0ney}

@@ -1,0 +1,11 @@
+Name: Flag Con
+
+Author: amepagle
+
+Type: Cryptography
+
+Text: As a reporter covering the International Flag Convention, you quickly made your way to the roof of the tallest building in the area where the convention was being held. You climbed aboard your helicopter and took to the skies, eager to get a bird's-eye view of the flag enthusiasts' show.
+
+As you flew above the roof, you could see the flag enthusiasts below, their colorful banners flapping in the wind. At first, it appeared that they were simply waving the flags randomly. Or were they?
+
+Put the flag in BUET{yourFlag} format.

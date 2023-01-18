@@ -1,0 +1,7 @@
+Solution:
+1. Read the images and convert them to a binary string. Images could be differentiated by red black or size difference.
+2. Then convert the binary to ascii, which will be a base64 string.
+3. Again, convert the base64 to ascii.
+4. Text returned: b1n4ry_1s_fun
+
+Flag: buet{b1n4ry_1s_fun}

@@ -1,0 +1,10 @@
+Name: Richkidz
+
+Author: amepagle
+
+Type: OSINT
+
+Description: What is the nickname of the second son of the archaeologist? How much money did the he receive from the Reinharts?
+Submit in the format: buet{Son_00000}. Son's name in camelcase, no commas in the amount.
+
+Hint: 🔍
