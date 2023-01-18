@@ -27,7 +27,7 @@ Can you imagine that this is made only with css nothing else
 ##Flag
 
 ```
-BUET{my_life_is_beautiful_with_css}
+buet{my_life_is_beautiful_with_css}
 ```
 
 ##Solution

@@ -26,7 +26,7 @@ Can one click Stop You from achieving your success?
 ##Flag
 
 ```
-BUET{can't_stop_me_by_1_click}
+buet{can't_stop_me_by_1_click}
 ```
 
 ##Solution

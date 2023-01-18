@@ -26,7 +26,7 @@ The source of the flag is this site
 ##Flag
 
 ```
-BUET{here_is_a_source_file}
+buet{here_is_a_source_file}
 ```
 
 ##Solution
