@@ -1,0 +1,13 @@
+Problem Name - Cutu Cat??
+Category - Steganography
+Points - 50
+Attachment - rufus.jpg
+
+
+Description :-
+
+This is the picture of Rufus, the brother from another mother of the mighty catto of ECE
+
+Despite being cute, Rufus hides a dark secret, can you help me to find it out?
+
+Flag Format: buet{flag}
