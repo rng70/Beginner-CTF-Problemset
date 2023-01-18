@@ -1,6 +1,6 @@
 Name: Inception 2
 
-Author: amepagle and overth1nker
+Author: amepagle
 
 Type: Cryptography
 
@@ -15,3 +15,5 @@ This time, he was determined to send Pagle an encrypted message so complicated t
 Please help pagle have his patishapta.
 
 Put the flag in the format: BUET{flag}
+
+Hint: Isn't his favorite number too big?

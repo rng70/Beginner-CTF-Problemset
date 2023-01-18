@@ -1,8 +1,9 @@
 Solution:
 1. Place name: Xultun
 2. https://en.wikipedia.org/wiki/William_Saturno
-3. Second son's name: David
+3. [from wikipedia] Second son's name: David
 4. Saturno's cv: https://www.bu.edu/archaeology/files/2015/10/Saturno-CV-2015-Feb.pdf
-5. Grant from Reinhart Family Foundation: $95,000
+5. [from CV] Grant from Reinhart Family Foundation: $95,000
+6. You can find these info by first scanning the image with google lens and finding the appropriate articles.
 
 Flag: buet{David_95000}

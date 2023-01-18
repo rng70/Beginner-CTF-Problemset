@@ -1,0 +1,12 @@
+Solution:
+1. Basically, a problem using RSA.
+2. the second RSA problem has incomplete info, which you will extract by cracking the 1st one.
+3. For the 1st problem: n, e, c is given.
+4. [cracking] Decompose the n, then you can get phi_n. Use that to find out d, and decrypt the cyphertext c.
+5. the decrypted plaintext is the n of the second RSA problem.
+6. For the second RSA problem, previously only e, c was given. Now you also have n. So, the problem contains complete information to crack the second RSA.
+7. [cracking] similar to 1st one.
+8. You get a string of numbers. You notice that none of the digits in that number exceed 8. So, it must be an octal string.
+9. convert the octal to ascii, and you get the string: RSA_CRAZE
+
+Flag: buet{RSA_CRAZE}
