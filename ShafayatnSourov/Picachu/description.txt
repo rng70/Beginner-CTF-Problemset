@@ -1,0 +1,9 @@
+Name: Picachu
+
+Author: overth1nker
+
+Type: Cryptography
+
+Description: Picachu takes lots of random pics. He sends you all the photos in his gallery, which are repititive images, to say the least. You doubt that there might be a message hidden in plain sight. Can you find it, UwU?
+
+Hint: What do computers understand?

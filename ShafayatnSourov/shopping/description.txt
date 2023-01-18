@@ -1,0 +1,10 @@
+Name: Shopping
+
+Author: overth1nker
+
+Type: Cryptography
+
+Description: Your mom gave you a list and some TaKa, and sent you shopping. After reaching the shop, you find out that the list reads 'k3dnbg_da3_oqdk4_w0gor', but you're pretty sure she mentioned buying vinegar to make some aachar last night. 
+
+Do you love your mom enough to understand what she wanted to say?
+Put the flag in the correct format: buet{flag}

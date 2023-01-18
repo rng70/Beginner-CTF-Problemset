@@ -1,0 +1,7 @@
+Solution:
+1. Flag semaphore.
+2. Solution here: https://www.dcode.fr/semaphore-flag
+3. Putting the flag patters returns the message: dontburntheflagwash1t
+
+Flag:
+buet{dontburntheflagwash1t}
