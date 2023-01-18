@@ -1,0 +1,13 @@
+Problem name - Bang with Music
+Category - Cryptography
+Points - 50
+
+
+Description :-
+
+You are discussing with your band members about the upcoming FEST music notes. One of the member 
+give you a cheat sheet. You read RE MI SI U SOL 4 S H LA DO K 3 R.
+
+Find out what is in for you. 
+
+Flag format: buet{F_L_A_G}

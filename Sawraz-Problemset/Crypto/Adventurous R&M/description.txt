@@ -1,0 +1,11 @@
+Problem name - Adventurous R&M
+Category - Cryptography
+Points - 50
+Attachments - RMAdventure.png
+
+Description :-
+
+Rick And Morty is full of fun and wacky adventures. One day they got a map under a false bill. Can you help them to hunt the flag??
+The flag must contain only capital letters.
+
+Flag format: buet{FLAGHERE}
