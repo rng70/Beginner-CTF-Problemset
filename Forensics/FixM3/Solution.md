@@ -18,11 +18,7 @@
 
 > Tawsif Shahriar
 
-### Challenge Description
-
----
-
-### Solution of FixM3
+### Solution
 
 ---
 
