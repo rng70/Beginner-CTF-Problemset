@@ -1,10 +1,22 @@
-# Solution
+# # Readme
 
 ---
 
 ---
 
 ### Challenge title: {Problem name}
+
+### 
+
+### Points: {Total Point}
+
+> Appropriate point
+> 
+> ---
+> 
+> > why you think this is appropriate proint
+
+### 
 
 ### Flag: {flag}
 
@@ -22,6 +34,6 @@
 
 #### Skills need to solve this problem
 
-#### Process
+1. #### Process
 
 ---

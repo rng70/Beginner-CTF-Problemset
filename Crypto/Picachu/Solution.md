@@ -13,11 +13,11 @@
 > Appropriate point
 > 
 > ---
->
+> 
 > 250
 > 
 > > why you think this is appropriate point
-> >
+> > 
 > > Need to know a lot of basic about image analysis, binaries, XXX to ascii conversion etc.
 
 ### 
@@ -38,7 +38,6 @@ All the images of his gallery is given in the zip file, please download it. Subm
 
 Hint 1: What do computers understand?
 Hint 2: Magic 🪄
- 
 
 ### Solution of {Pikachu}
 

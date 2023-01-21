@@ -13,11 +13,11 @@
 > Appropriate point
 > 
 > ---
->
+> 
 > 125
 > 
 > > why you think this is appropriate point
-> >
+> > 
 > > Need some OSINT experience to get this problem.
 
 ### 
@@ -37,7 +37,6 @@ What is the nickname of the second son of the person who discovered this? How mu
 Submit in the format: `buet{Name_00000}`. Son's name in camelcase, no commas in the amount.
 
 Hint 1: 🔍
- 
 
 ### Solution of {Richkidz}
 

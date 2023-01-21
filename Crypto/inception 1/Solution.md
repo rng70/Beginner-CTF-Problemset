@@ -13,11 +13,11 @@
 > Appropriate point
 > 
 > ---
->
+> 
 > 75/100
 > 
 > > why you think this is appropriate point
-> >
+> > 
 > > Magic tool does the trick
 
 ### 
@@ -44,7 +44,6 @@ Put the flag in `buet{flag}` format.
 
 Hint 1: You ask pagle about overth1nker, and he said that overth1nker likes multiples of 8, and likes the movie inception.
 Hint 2: Give the chef my regards
- 
 
 ### Solution of {Inception 1}
 

@@ -13,11 +13,11 @@
 > Appropriate point
 > 
 > ---
->
+> 
 > 25/50
 > 
 > > why you think this is appropriate point
-> >
+> > 
 > > Flag signs are really basic, and many people know about them, from movies/cartoons etc.
 
 ### 
@@ -37,7 +37,6 @@ As a reporter covering the International Flag Convention, you quickly made your 
 As you flew above the roof, you could see the flag enthusiasts below, their colorful banners flapping in the wind. At first, it appeared that they were simply waving the flags randomly. Or were they?
 
 Put the flag in `buet{flag}` format.
- 
 
 ### Solution of {Flag Con}
 
