@@ -1,4 +1,4 @@
-# # Readme
+# Readme
 
 ---
 
@@ -13,11 +13,11 @@
 > Appropriate point
 > 
 > ---
->
+> 
 > 250
 > 
 > > why you think this is appropriate point
-> >
+> > 
 > > Need deep understanding of RSA algorithm and number system
 
 ### 
@@ -55,7 +55,6 @@ Your flag is the message sent via the second mail in plaintext, in format: `buet
 Hint 1: How much information is too much information?
 Hint 2: Though the decrypted message of the second mail is a number, the flag is not a number. But you're very close!
 Hint 3: Is that an octopus?!?
- 
 
 ### Solution of {RSA RSB}
 

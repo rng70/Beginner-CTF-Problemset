@@ -8,20 +8,22 @@
 
 #### Points: 50
 
-#### Flag: 
+#### Flag:
+
 ```
  |  buet{D_E_B_U_G_4_S_H_A_C_K_3_R}
 ```
 
 #### Author:
 
->```
+> ```
 > C0d3Hunt3r
->```
+> ```
 
 ### Challenge Description
 
 ---
+
 You are discussing with your band members about the upcoming FEST music notes. One of the member 
 give you a cheat sheet. You read RE MI SI U SOL 4 S H LA DO K 3 R.
 

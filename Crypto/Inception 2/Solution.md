@@ -13,11 +13,11 @@
 > Appropriate point
 > 
 > ---
->
+> 
 > 125
 > 
 > > why you think this is appropriate point
-> >
+> > 
 > > Magic tool does the trick
 
 ### 
@@ -45,7 +45,6 @@ Please help pagle have his patishapta.
 Put the flag in the format: `BUET{flag}`
 
 Hint 1: Isn't his favorite number too big?
- 
 
 ### Solution of {Inception 2}
 

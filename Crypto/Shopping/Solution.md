@@ -1,4 +1,4 @@
-# # Readme
+# Readme
 
 ---
 
@@ -13,11 +13,11 @@
 > Appropriate point
 > 
 > ---
->
+> 
 > 50
 > 
 > > why you think this is appropriate point
-> >
+> > 
 > > Need to understand hints, use vigenere cipher
 
 ### 
@@ -37,7 +37,6 @@ Your mom gave you a list and some TaKa, and sent you shopping. After reaching th
 Do you love your mom enough to understand what she tried to say?
 
 Put the flag in the correct format: `buet{flag}`
- 
 
 ### Solution of {Shopping}
 
@@ -57,4 +56,5 @@ Put the flag in the correct format: `buet{flag}`
 3. Decrpyting it reads: `r3turn_th3_extr4_m0ney`
 
 Alternative:
+
 1. You can also bruteforce for different key sizes. For example, bruteforcing for keysize = 2 is enough to break the code.

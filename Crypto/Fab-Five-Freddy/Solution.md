@@ -4,24 +4,31 @@
 
 ---
 
-### Challenge title: {Problem name}
+### Challenge title: Fab-Five-Freddy
 
-### Flag: {flag}
+### Flag: buet{c517e8df662284b132d50666fe838038}
 
 ### Author:
 
-> {Author name}
+> dyn
 
 ### Challenge Description
 
 ---
 
-### Solution of {Problem name here}
+> What's the MD5 hash value of "1stCSE@BUET"? (Without the quotes)
+> Flag format: buet{hash_value}
+
+### Solution of Fab-Five-Freddy
 
 ---
 
 #### Skills need to solve this problem
 
+* How to calculate "MD5 Hask"
+
 #### Process
+
+* Do it using CyberChef (easy)
 
 ---

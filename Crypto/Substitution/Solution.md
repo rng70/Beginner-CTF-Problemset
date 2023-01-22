@@ -6,20 +6,22 @@
 
 #### Points: 50
 
-#### Flag: 
+#### Flag:
+
 ```
  |  buet{cr1pt3d_c1ph3r}
 ```
 
 #### Author:
 
->```
+> ```
 > C0d3Hunt3r
->```
+> ```
 
 ### Challenge Description
 
 ---
+
 A [message](./substitution.txt) has come in but it seems to be all scrambled. Can you crack this substitution cipher?
 
 Flag format: buet{fl4g_h3r3}

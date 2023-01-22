@@ -1,5 +1,0 @@
-Solution: simply upload the not-very-hard.txt file here [https://ncviewer.com/] or here(even better) [https://nraynaud.github.io/webgcode/].
-
-It will reveal the flag.
-
-****** Flag: buet{g_c0d3_1s_aw3s0m3} ******

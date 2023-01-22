@@ -1,12 +1,10 @@
-# # Readme
+# Readme
 
 ---
 
 ---
 
 ### Challenge title: Flag Con
-
-### 
 
 ### Points: 25
 
@@ -52,5 +50,5 @@ Put the flag in `buet{flag}` format.
 ---
 
 1. These flag signs are called 'Flag semaphore'.
-2. Can be solved here: https://www.dcode.fr/semaphore-flag
+2. Can be solved here: [Flag Semaphore - Online Decoder, Encoder, Translator](https://www.dcode.fr/semaphore-flag)
 3. Putting the flag patters returns the message: `dontburntheflagwash1t`

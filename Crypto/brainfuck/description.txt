@@ -1,5 +1,0 @@
-Buet Cyber Security Community encrypted a message for you in flag.txt file. Can you decode the message?
-
-Hint: Make sure that your brain is not fucked by the encrypted message.
-
-Author: rng70 
