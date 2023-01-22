@@ -2,7 +2,7 @@
 
 ---
 
-> This repository contains all the problems and their solution of ***Intra Buet CTF Competition*** for absolute beginners organized by BUET Cyber Security Club.
+> This repository contains all the problems and their solution of ***Intra BUET CTF Competition*** for absolute beginners organized by BUET Cyber Security Club.
 
 
 
