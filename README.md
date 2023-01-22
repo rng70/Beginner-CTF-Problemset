@@ -4,10 +4,16 @@
 
 > This repository contains all the problems and their solution of ***Intra BUET CTF Competition*** for absolute beginners organized by BUET Cyber Security Club.
 
+<br/>
 
+## Maintainer
+---
 
-#### Problems Category
+> This repository is maintained by [rng70 (Al Arafat Tanin) · GitHub](https://github.com/rng70)
 
+<br/>
+
+## Problems Category
 ---
 
 * Cryptography
@@ -24,9 +30,9 @@
 
 * Misc
   
-  
+<br/>  
 
-#### Flag Format
+## Flag Format
 
 ---
 
@@ -36,9 +42,9 @@
 > 
 > * BUET{some_text}
 
+<br/>
 
-
-#### Contributions
+## Contributions
 
 ---
 
@@ -62,10 +68,4 @@
 
 * [ZuhairZaki (S. M. Zuhair Zaki) · GitHub](https://github.com/ZuhairZaki)
 
-
-
-#### Maintainer
-
 ---
-
-> This repository is maintained by [rng70 (Al Arafat Tanin) · GitHub](https://github.com/rng70)
