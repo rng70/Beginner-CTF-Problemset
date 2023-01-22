@@ -13,9 +13,9 @@ buet{WUBBALUBBADUBDUB}
 
 ### Author:
 
-> ```
-> C0d3Hunt3r
-> ```
+
+>`C0d3Hunt3r`
+
 
 ### Challenge Description
 
@@ -44,4 +44,4 @@ Flag format: buet{FLAGHERE}
 
 + I also went to a decoder for the `FALSS BILL CIPHER DECODER` and got this (https://www.dcode.fr/gravity-falls-bill-cipher)
 
-![solve](./Photos/solve.png)
+![solve](./Photos/solve.PNG)
