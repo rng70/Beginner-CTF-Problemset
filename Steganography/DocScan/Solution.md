@@ -4,9 +4,9 @@
 
 ---
 
-### Challenge title: {Problem name}
+### Challenge title: DocScan
 
-### Flag: {flag}
+### Flag: buet{openxml}
 
 ### Author:
 
@@ -16,7 +16,10 @@
 
 ---
 
-### Solution of {Problem name here}
+> Hiding something in word document...
+> Dig deeper and get it!!
+
+### Solution of DocScan
 
 ---
 

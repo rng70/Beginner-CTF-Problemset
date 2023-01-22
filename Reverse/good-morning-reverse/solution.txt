@@ -1,8 +1,0 @@
-Solution:
-        It is not in reverse category but can be solved using Ghidra, Ida Pro or Dogbolt
-        
-Simple solution:
-        Run the follwing commnad:   
-                strings good-morning-reverse | grep buet
-                
-****** Flag: buet{r3v3rs3_1s_th3_m0st_fun_part} ******
