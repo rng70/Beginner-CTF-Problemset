@@ -1,27 +1,40 @@
-# Solution
+## ChatGPT 1
 
----
+### Points
 
----
+```
+50
+```
 
-### Challenge title: {Problem name}
+### Author
 
-### Flag: {flag}
+```
+dyn
+```
 
-### Author:
+### Challenge Files
 
-> {Author name}
+```
+[+] prompt.pdf
+```
 
-### Challenge Description
+### Description
 
----
+```
+Check the PDF for challenge description.
 
-### Solution of {Problem name here}
+Flag format: buet{flag_here}
+```
 
----
+### Flag
 
-#### Skills need to solve this problem
+```
+buet{c4n_y0u_533_m3?}
+```
 
-#### Process
+### Solution
 
----
+```
+- Run strings on the PDF 
+- Or select all text
+```

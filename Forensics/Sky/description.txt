@@ -1,5 +1,0 @@
-Problem Name - Sky
-Category - Forensic
-Point - 150
-Attachment - blackhole.jpg
-Description - Learn to count in spanish and whisper me the flag

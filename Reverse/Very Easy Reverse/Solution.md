@@ -1,27 +1,37 @@
-# Solution
+## Very Easy Reverse
 
----
+### Points
 
----
+```
+25
+```
 
-### Challenge title: {Problem name}
+### Author
 
-### Flag: {flag}
+```
+dyn
+```
 
-### Author:
+### Challenge Files
 
-> {Author name}
+```
+[+] challenge.out
+```
 
-### Challenge Description
+### Description
 
----
+```
+The flag is: buet{a_b} where a = value of a, and b = value of b.
+```
 
-### Solution of {Problem name here}
+### Flag
 
----
+```
+buet{38_39}
+```
 
-#### Skills need to solve this problem
+### Solution
 
-#### Process
-
----
+```
+Just reverse the program and read source code.
+```

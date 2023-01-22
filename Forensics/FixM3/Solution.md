@@ -1,4 +1,4 @@
-# # Readme
+# Readme
 
 ---
 
@@ -6,11 +6,11 @@
 
 ### Challenge title: FixM3
 
-###
+### 
 
 ### Points: 200
 
-###
+### 
 
 ### Flag: buet{f1x_m3_and_g37_7h3_fl4g}
 

@@ -1,4 +1,4 @@
-# # Readme
+# Readme
 
 ---
 
@@ -6,11 +6,11 @@
 
 ### Challenge title: Sky
 
-###
+### 
 
 ### Points: 150
 
-###
+### 
 
 ### Flag: buet{look_up_to_the_sky_and_see}
 

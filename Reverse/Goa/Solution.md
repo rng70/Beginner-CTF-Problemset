@@ -1,27 +1,43 @@
-# Solution
+## Goa
 
----
+### Points
 
----
+```
+75
+```
 
-### Challenge title: {Problem name}
+### Author
 
-### Flag: {flag}
+```
+dyn
+```
 
-### Author:
+### Challenge Files
 
-> {Author name}
+```
+[+] main
+```
 
-### Challenge Description
+### Description
 
----
+```
+I've been thinking of going on a vacation to Goa. If you can reverse it and find out the number, maybe I'll take you with me.
 
-### Solution of {Problem name here}
+Flag format: buet{flag_here}
 
----
+Author: dyn
+```
 
-#### Skills need to solve this problem
+### Flag
 
-#### Process
+```
+buet{s1mpl3_g0l4ng_b1n4ry}
+```
 
----
+### Solution
+
+```
+-   Goland Binary
+-   Upload to dogbolt or use HexRays
+-   You'll see the ASCII values
+```

@@ -1,6 +1,0 @@
-Problem name - Sniffer 2
-Category - Network
-Point - 100
-Attachment - capture2.pcapng
-
-Description - Find the flag from the packet capture. May the shark bless you

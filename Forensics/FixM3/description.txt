@@ -1,6 +1,0 @@
-Problem name - FixM3
-Category - Forensics
-Point - 200
-Attachment - flag
-
-description - I found an old artifact which I can not open. Can you fix it for me and find the flag?

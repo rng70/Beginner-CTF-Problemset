@@ -1,4 +1,4 @@
-# # Readme
+# Readme
 
 ---
 
@@ -6,11 +6,7 @@
 
 ### Challenge title: Zypper
 
-###
-
 ### Points: 150
-
-###
 
 ### Flag: buet{un21p_m3_t0_th3_3nd}
 

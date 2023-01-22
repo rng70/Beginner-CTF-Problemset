@@ -1,16 +1,16 @@
-# # Readme
+# Readme
 
 ---
 
 ---
 
-### Challenge title: sniffer1
+### Challenge title: Sniffer1
 
-###
+### 
 
 ### Points: 150
 
-###
+### 
 
 ### Flag: buet{watch_out_from_packet_captures}
 

@@ -1,9 +1,0 @@
-Problem Name - Not Found?
-Category - Reverse Engineering
-Points - 40
-Attachment - crack_me
-
-
-Description :-
-
-Do you even Linux? I wish there were a good tool to list strings used by a program...

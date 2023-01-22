@@ -4,9 +4,11 @@
 
 ---
 
-### Challenge title: {Problem name}
+### Challenge title: Not Found
 
-### Flag: {flag}
+### Flag:
+
+> buet{if_i_submit_this_flag_then_i_will_get_points}
 
 ### Author:
 
@@ -16,12 +18,12 @@
 
 ---
 
-### Solution of {Problem name here}
+> Do you even Linux? I wish there were a good tool to list strings used by a program...
+
+### Solution
 
 ---
 
-#### Skills need to solve this problem
-
-#### Process
+* 
 
 ---
