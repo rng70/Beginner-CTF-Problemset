@@ -6,16 +6,18 @@
 
 ### Challenge title: Adventurous R&M
 
+#### Points: 50
+
 #### Flag: 
 ```
-buet{WUBBALUBBADUBDUB}
+ |  buet{WUBBALUBBADUBDUB}
 ```
 
-### Author:
+#### Author:
 
-
->`C0d3Hunt3r`
-
+>```
+> C0d3Hunt3r
+>```
 
 ### Challenge Description
 
