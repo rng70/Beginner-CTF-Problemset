@@ -6,6 +6,8 @@
 
 ### Challenge title: Asobu Ka Shinu
 
+#### Points: 25
+
 #### Flag: 
 ```
  |  buet{6RYP70_!5_PUN}
