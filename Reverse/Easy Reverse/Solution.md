@@ -25,7 +25,21 @@
 ---
 
 #### Skills need to solve this problem
-
++ IDA_PRO
++ Patching
++ Assembly
 #### Process
+Source code contains a flag variable and two else statements. The first word of the flag is given in the flag variable, and the rest of the flag is concatenated from the two else statements.
+other two words will be concated from else part of the loop .
+To solve the problem, you want to change the code so that the patch goes down the else path in both conditions and apply the modified patch.
 
+I would suggest the following steps:
+
++ Understand the code logic and how the flag variable is being used.
++ Identify the two else statements that are concatenating the rest of the flag.
++ Change the conditions of the loops so that the path goes down the else path in both conditions.
++ Test the code to ensure that the flag is being concatenated correctly.
++ Apply the patch to the code.
+
+Similar Solve Link : https://www.youtube.com/watch?v=nA6fZFjfqTA
 ---
