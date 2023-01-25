@@ -1,8 +1,0 @@
-Problem Name - A song.. 
-Category - Programming
-Points - 75
-Attachment - a_song.txt
-
-Description :-
-
-Sing it loud!! https://www.youtube.com/watch?v=CqhbBzvKUt0
