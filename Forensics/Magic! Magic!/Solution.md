@@ -12,7 +12,7 @@
 
 ### Author:
 
-> 
+> C0d3Hunter & drag-on
 
 ### Challenge Description
 
