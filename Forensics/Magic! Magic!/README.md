@@ -30,8 +30,6 @@
 
 * Proper understanding of magic bits
 
-#### Process
-
-* 
+# 
 
 ---
