@@ -30,7 +30,7 @@ Can you find the key to success?
 
 #### Skills need to solve this problem
 
-+ Steganography
++ Basic linux commands
 
 #### Process
 
